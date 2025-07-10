@@ -5,9 +5,9 @@
 
 - 🌱 Atualmente estou aprendendo **FastAPI, Spring Boot, React, Langchain/Langgraph, Node.js**
 
-- 💬 Ask me about **Python, Algorithms, LLMs**
+- 💬 Me pergunte sobre **Python, Algorithms, LLMs**
 
-- 📫 How to reach me **matheuscwork@gmail.com**
+- 📫 Como entrar em contato? **matheuscwork@gmail.com**
 
 - 📄 Veja meu currículo [https://github.com/mfcoelhodev/resume](https://github.com/mfcoelhodev/resume)
 

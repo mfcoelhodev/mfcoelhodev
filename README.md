@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **FastAPI, Spring Boot, React, Langchain/Langgraph, Node.js**
 
-- 💬 Me pergunte sobre **Python, Algorithms, LLMs**
+- 💬 Me pergunte sobre **Python, Algoritimos, LLMs**
 
 - 📫 Como entrar em contato? **matheuscwork@gmail.com**
 
